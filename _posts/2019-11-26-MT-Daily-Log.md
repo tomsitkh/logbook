@@ -1,7 +1,7 @@
 ---
 title: MT20191126
-tags: logbook, 
-notebook: notebook
+date: 2019-11-26 12:34:00 -0000
+categories: logbook
 ---
 
 ## Project Name
